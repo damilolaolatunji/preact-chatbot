@@ -1,6 +1,9 @@
 # Realtime Preact Chatbot
 
+How to build a realtime chatbot with Pusher, Wit.ai and Preact -> https://pusher.com/tutorials/chatbot-preact-witai
+
 A sample chatbot to show how to add Natural Language Processing and realtime features to a chatbot with the help of [Wit.ai](https://wit.ai).
+
 
 ## Getting Started
 

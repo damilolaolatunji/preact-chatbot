@@ -16,7 +16,7 @@ export default class App extends Component {
 
   componentDidMount() {
     const pusher = new Pusher('<your app key>', {
-      cluster: 'eu',
+      cluster: '<your app cluster>',
       encrypted: true,
     });
 
